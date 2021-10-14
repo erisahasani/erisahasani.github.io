@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Something"
+title: "First Post"
 categories: misc
 ---
 

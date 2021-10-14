@@ -5,3 +5,37 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'dark' }}",
   "minima/initialize";
+
+
+/* Adding to CV format*/
+h1 {
+    font-size: 35px;
+    color: #999999;
+    text-align:center;
+    margin-bottom:15px;
+}
+
+/* Titles of categories */
+h2 {
+    color: #999999;
+}
+
+
+/* Definitions */
+dt {
+    float: left;
+    clear: left;
+    width: 20%;
+    color: #56926a;
+}
+dd {
+    margin-left: 20%;
+}
+p {
+    margin-top:0;
+    margin-bottom:8px;
+}
+
+
+
+
