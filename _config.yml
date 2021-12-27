@@ -3,8 +3,8 @@ author:
   name: Phd Student at UT Austin
   email: ehasani at utexas.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  My mathematical philosophy can be captured in the following quote 
-  by Voltaire: "No problem can withstand the assult of sustained thinking"
+# My mathematical philosophy can be captured in the following quote 
+# by Voltaire: "No problem can withstand the assult of sustained thinking"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
