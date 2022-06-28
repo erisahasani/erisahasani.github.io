@@ -37,6 +37,16 @@ layout: default
   {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-</article>
 
+
+  {% if page.jsarr %}
+    <script src="/assets/javastuff/three.js"></script>
+    {% for js in page.jsarr %}
+        <script type="text/javascript">
+        {% include {{ js }} %}
+         </script>
+    {% endfor %}
+  {% endif %}
+
+</article>
 

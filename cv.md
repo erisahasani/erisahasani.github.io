@@ -9,7 +9,7 @@ permalink: /cv/
 ### Education
 
 
-Aug.2021-Present
+Aug. 2021-Present
 :   *University of Texas at Austin* (Austin, TX)
 
     PhD Student in Mathematicas
@@ -29,6 +29,9 @@ Aug. 2016 - Dec. 2019
 
 
 ### Honors and Scholarships
+
+May 2022
+:    *Frank Gerth III Teaching Excellence Award*, University of Texas at Austin 
 
 Mar. 2017
 :    *Faculty Senate Scholarship Award*, Florida Institute of Technology 
@@ -52,6 +55,8 @@ Feb. 2013
 Aug. 2021 - Present
 :   **Graduate Teaching Assistant, University of Texas at Austin**
 
+
+    Spring 2022: Introduction to Real Analysis \
     Fall 2021: Diff Equat/Linear Algebra
 
 Jan. 2020 - May. 2021
@@ -69,7 +74,7 @@ Technical
 :   LaTeX, Python, C, C++, MATLAB (familiarity order)
 
 Verbal
-:   Albanian, Greekm English (chronological order)
+:   Albanian, Greek, English (chronological order)
 
 ### Other Interests
 Hobbies

@@ -4,4 +4,4 @@ title: "First Post"
 categories: misc
 ---
 
-Let this be the first post
+Let this be the first post.

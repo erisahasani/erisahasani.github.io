@@ -5,8 +5,8 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: page
+layout: post
+categories: misc
+jsarr:
+ - /javastuff/blendertest.js 
 ---
-
-<!-- <img src="Illustration2d.png"     alt="Markdown Monster icon"     style="float: left; margin-right: 10px;" /> -->
-
