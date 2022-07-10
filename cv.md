@@ -28,6 +28,15 @@ Aug. 2016 - Dec. 2019
 
 
 
+### Publications and Preprints
+
+2021
+:   *On the $$p$$-Kirchhoff equation*. Erisa Hasani and Kanishka Perera. [arXiv](https://arxiv.org/abs/2108.05285)
+
+2021
+:   *On the compactness threshold in the critical Kirchhoff equation*. Erisa Hasani and Kanishka Perera. *Journal of Discrete and Continuous Dynamical Systems, 2021.* [arXiv](https://arxiv.org/abs/2012.05317)
+
+
 ### Honors and Scholarships
 
 May 2022
@@ -40,14 +49,6 @@ Feb. 2013
 :   *Bronze Medal, 30th Greek Mathematical Olympiad* (Athens, Greece)
 
 
-
-### Publications and Preprints
-
-2021
-:   *On the $$p$$-Kirchhoff equation*. Erisa Hasani and Kanishka Perera. [arXiv](https://arxiv.org/abs/2108.05285)
-
-2021
-:   *On the compactness threshold in the critical Kirchhoff equation*. Erisa Hasani and Kanishka Perera. *Journal of Discrete and Continuous Dynamical Systems, 2021.* [arXiv](https://arxiv.org/abs/2012.05317)
 
 
 ### Teaching Experience
