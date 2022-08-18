@@ -56,7 +56,7 @@ Feb. 2013
 Aug. 2021 - Present
 :   **Graduate Teaching Assistant, University of Texas at Austin**
 
-
+    Fall 2022: Diff Equat/Linear Algebra \
     Spring 2022: Introduction to Real Analysis \
     Fall 2021: Diff Equat/Linear Algebra
 
@@ -79,4 +79,4 @@ Verbal
 
 ### Other Interests
 Hobbies
-:   Painting, Animation, Illustration
+:   Painting, Animation, Illustration, 3D Modeling (Blender)
