@@ -8,5 +8,4 @@
 layout: post
 categories: misc
 jsarr:
- - /javastuff/blendertest.js 
 ---
