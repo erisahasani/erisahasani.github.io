@@ -51,7 +51,7 @@ Feb. 2013
 
 
 
-### Teaching Experience
+### Work Experience
 
 Aug. 2021 - Present
 :   **Graduate Teaching Assistant, University of Texas at Austin**
@@ -72,7 +72,7 @@ Jan. 2020 - May. 2021
 ### Languages
 
 Technical
-:   LaTeX, Python, C, C++, MATLAB (familiarity order)
+:   Python (numpy, Matplotlib, PyTorch), C, C++, MATLAB
 
 Verbal
 :   Albanian, Greek, English (chronological order)
