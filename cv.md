@@ -51,9 +51,10 @@ Feb. 2013
 
 
 
-### Work Experience
+### Teaching Experience
 
-Aug. 2021 - Present
+
+Aug. 2021 - May. 2023
 :   **Graduate Teaching Assistant, University of Texas at Austin**
 
     Fall 2022: Diff Equat/Linear Algebra \
@@ -69,14 +70,9 @@ Jan. 2020 - May. 2021
     Spring 2020: Honors Calculus II, Calculus III
 
 
-### Languages
+### Technical Skills
 
 Technical
-:   Python (numpy, Matplotlib, PyTorch), C, C++, MATLAB
+:   Python (NumPy, Matplotlib, PyTorch, SymEngine, H5py), C, C++, Rust, MATLAB
 
-Verbal
-:   Albanian, Greek, English (chronological order)
 
-### Other Interests
-Hobbies
-:   Painting, Animation, Illustration, 3D Modeling (Blender)
