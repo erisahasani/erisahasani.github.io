@@ -44,7 +44,7 @@ img {
         <br>
             &nbsp; &nbsp; &nbsp; First, let me introduce myself. I am a <del>second</del> third year PhD student in Mathematics at UT Austin. My research interests are both in theoretical and applied mathematics. I am interested in both the theory and numerical solvers of PDE. Outside of mathematics, I am also interestead in visual arts, in particular paintings.
         <br>
-            &nbsp; &nbsp; &nbsp; I did my batchelor's and master's degrees at Florida Tech, in Melbourne, FL (2016-2021). Prior to that, I lived and went to school in Kalamata, Greece, for several years, and before that I lived in Elbasan, Albania where I was also born.  
+            &nbsp; &nbsp; &nbsp; I did my bachelor's and master's degrees at Florida Tech, in Melbourne, FL (2016-2021). Prior to that, I lived and went to school in Kalamata, Greece, for several years, and before that I lived in Elbasan, Albania where I was also born.  
         </div>
       </div>
     </div>
