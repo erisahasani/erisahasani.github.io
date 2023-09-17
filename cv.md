@@ -4,9 +4,13 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
+#### Technical Skills
+
+Languages & Libraries
+:   Python (NumPy, Matplotlib, PyTorch, SymEngine, H5py), C, C++, Rust, MATLAB
 
 
-### Education
+#### Education
 
 
 Aug. 2021-Present
@@ -28,16 +32,16 @@ Aug. 2016 - Dec. 2019
 
 
 
-### Publications and Preprints
+#### Publications and Preprints
 
-2021
-:   *On the $$p$$-Kirchhoff equation*. Erisa Hasani and Kanishka Perera. [arXiv](https://arxiv.org/abs/2108.05285)
+2023
+:   *On the critical $$p$$-Kirchhoff equation*. Erisa Hasani and Kanishka Perera. Topological Methods in Nonlinear Analysis, 2023. [arXiv](https://arxiv.org/abs/2108.05285)
 
 2021
 :   *On the compactness threshold in the critical Kirchhoff equation*. Erisa Hasani and Kanishka Perera. *Journal of Discrete and Continuous Dynamical Systems, 2021.* [arXiv](https://arxiv.org/abs/2012.05317)
 
 
-### Honors and Scholarships
+#### Honors and Scholarships
 
 May 2022
 :    *Frank Gerth III Teaching Excellence Award*, University of Texas at Austin 
@@ -49,20 +53,27 @@ Feb. 2013
 :   *Bronze Medal, 30th Greek Mathematical Olympiad* (Athens, Greece)
 
 
+#### Summer Schools
+Jun. 2023
+: *Princeton Machine Learning Theory Summer School, Princeton University, New Jersey.*
+
+Jun. 2022
+: *Summer School in Nonlinear Analysis with a special tribute to Patrizia
+Pucci, Viterbo University, Italy.*
 
 
-### Teaching Experience
+#### Teaching Experience
 
 
 Aug. 2021 - May. 2023
-:   **Graduate Teaching Assistant, University of Texas at Austin**
+:   *Graduate Teaching Assistant, University of Texas at Austin*
 
     Fall 2022: Diff Equat/Linear Algebra \
     Spring 2022: Introduction to Real Analysis \
     Fall 2021: Diff Equat/Linear Algebra
 
 Jan. 2020 - May. 2021
-:   **Graduate Teaching Assistant, Florida Institute of Technology**
+:   *Graduate Teaching Assistant, Florida Institute of Technology*
 
     Spring 2021: Diff Equat/Linear Algebra \
     Fall 2020: Honors Calculus I,  Diff Equat/Linear Algebra \
@@ -70,9 +81,5 @@ Jan. 2020 - May. 2021
     Spring 2020: Honors Calculus II, Calculus III
 
 
-### Technical Skills
-
-Technical
-:   Python (NumPy, Matplotlib, PyTorch, SymEngine, H5py), C, C++, Rust, MATLAB
 
 

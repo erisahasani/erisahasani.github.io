@@ -1,23 +1,23 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+#Only the main Sass file needs front matter (the dashes are enough)
 ---
 
 @import
-  "minima/skins/{{ site.minima.skin | default: 'dark' }}",
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
 
 /* Adding to CV format*/
 h1 {
     font-size: 35px;
-    color: #999999;
+    color: #745347;
     text-align:center;
     margin-bottom:15px;
 }
 
 /* Titles of categories */
 h2 {
-    color: #999999;
+    color: #745347;
 }
 
 
@@ -26,7 +26,7 @@ dt {
     float: left;
     clear: left;
     width: 20%;
-    color: #56926a;
+    color: #745347;
 }
 dd {
     margin-left: 20%;

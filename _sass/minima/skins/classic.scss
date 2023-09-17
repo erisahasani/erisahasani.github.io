@@ -1,15 +1,15 @@
 @charset "utf-8";
 
-$brand-color:           #828282 !default;
+$brand-color:           #313131 !default;
 $brand-color-light:     lighten($brand-color, 40%) !default;
 $brand-color-dark:      darken($brand-color, 25%) !default;
 
 $site-title-color:      $brand-color-dark !default;
 
 $text-color:            #111111 !default;
-$test-color:            #48488c;
-$background-color:      #faf9fc !default;
-$code-background-color: #eeeeff !default;
+$test-color:            #2b2ba6;
+$background-color:      #ece6df !default;
+$code-background-color: #ece6df !default;
 
 $link-base-color:       #2a7ae2 !default;
 $link-visited-color:    darken($link-base-color, 15%) !default;
@@ -30,7 +30,7 @@ $table-border-color:    $border-color-01 !default;
 // ----------------------------------------------------------------------------
 
 .highlight {
-  .c     { color: #998; font-style: italic } // Comment
+  .c     { color: rgb(64, 43, 172); font-style: italic } // Comment
   .err   { color: #a61717; background-color: #e3d2d2 } // Error
   .k     { font-weight: bold } // Keyword
   .o     { font-weight: bold } // Operator
