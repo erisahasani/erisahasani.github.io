@@ -36,7 +36,7 @@ img {
   <body>
     <div class="container">
       <div class="image">
-        <img src="media\rsz_img_5157.jpeg" width="1300" style="float: left;"  />
+        <img src="media\result-fotor-bg-remover-20231029135413.png" width="1300" style="float: left;"  />
       </div>
       <div class="text">
         <div>
