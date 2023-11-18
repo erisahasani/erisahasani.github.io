@@ -13,7 +13,7 @@ Languages & Libraries
 #### Education
 
 
-Aug. 2021-Present
+Aug. 2021 - present
 :   *University of Texas at Austin* (Austin, TX)
 
     PhD Student in Mathematicas
@@ -35,10 +35,10 @@ Aug. 2016 - Dec. 2019
 #### Publications and Preprints
 
 2023
-:   *On the critical $$p$$-Kirchhoff equation*. Erisa Hasani and Kanishka Perera. Topological Methods in Nonlinear Analysis, 2023. [arXiv](https://arxiv.org/abs/2108.05285)
+:   *On the critical $$p$$-Kirchhoff equation. Erisa Hasani, Kanishka Perera. Topological Methods in Nonlinear Analysis Vol. 61, Issue 1, (Jan 2023) , pgs 383-391.* [arXiv](https://arxiv.org/abs/2108.05285)
 
 2021
-:   *On the compactness threshold in the critical Kirchhoff equation*. Erisa Hasani and Kanishka Perera. *Journal of Discrete and Continuous Dynamical Systems, 2021.* [arXiv](https://arxiv.org/abs/2012.05317)
+:   *On the compactness threshold in the critical Kirchhoff equation. Erisa Hasani, Kanishka Perera. Journal of Discrete and Continuous Dynamical Systems, 2022.* [arXiv](https://arxiv.org/abs/2012.05317)
 
 
 #### Honors and Scholarships
@@ -62,7 +62,10 @@ Jun. 2022
 Pucci, Viterbo University, Italy.*
 
 
-#### Teaching Experience
+#### Experience
+
+Jun. 2023 - Present
+:   *Graduate Research  Assistant, Oden Institute*
 
 
 Aug. 2021 - May. 2023

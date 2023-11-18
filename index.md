@@ -42,7 +42,7 @@ img {
         <div>
             &nbsp; &nbsp; &nbsp; Hello everyone! Welcome to my website! I do not have much up here yet, but I am working on it. Part of my 2023-year resolution is to keep up with content in here. 
         <br>
-            &nbsp; &nbsp; &nbsp; I am a <del>second</del> third year PhD student in Mathematics at UT Austin. My research focus is in analysis, PDEs and machine learning. Outside of mathematics, I am also interestead in visual arts.
+            &nbsp; &nbsp; &nbsp; I am a <del>second</del> third year PhD student in Mathematics at UT Austin. My research focus is in analysis, PDEs and machine learning. Outside of mathematics, I am also interested in visual arts.
         <br>
             &nbsp; &nbsp; &nbsp; I did my bachelor's and master's degrees at Florida Tech, in Melbourne, FL (2016-2021). Prior to that, I lived and went to school in Kalamata, Greece, for several years, and before that I lived in Elbasan, Albania where I was also born.  
         </div>
