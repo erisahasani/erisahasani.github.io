@@ -33,6 +33,8 @@ Aug. 2016 - Dec. 2019
 
 
 #### Publications and Preprints
+2024
+:   *Generating synthetic data for neural operators. Erisa Hasani, Rachel A. Ward.* [arXiv](https://arxiv.org/abs/2401.02398)
 
 2023
 :   *On the critical $$p$$-Kirchhoff equation. Erisa Hasani, Kanishka Perera. Topological Methods in Nonlinear Analysis Vol. 61, Issue 1, (Jan 2023) , pgs 383-391.* [arXiv](https://arxiv.org/abs/2108.05285)

@@ -1,18 +1,18 @@
 @charset "utf-8";
 
-$brand-color:           #313131 !default;
-$brand-color-light:     lighten($brand-color, 40%) !default;
+$brand-color:           #000000 !default;
+$brand-color-light:     lighten($brand-color, 20%) !default;
 $brand-color-dark:      darken($brand-color, 25%) !default;
 
 $site-title-color:      $brand-color-dark !default;
 
-$text-color:            #111111 !default;
-$test-color:            #2b2ba6;
-$background-color:      #d3d5d3 !default;
-$code-background-color: #ece6df !default;
+$text-color:            #000000 !default;
+$test-color:            #0000EE;
+$background-color:      #ffffff !default;
+$code-background-color: #ffffff !default;
 
-$link-base-color:       #2a7ae2 !default;
-$link-visited-color:    darken($link-base-color, 15%) !default;
+$link-base-color:       #0064e7 !default;
+$link-visited-color:    darken($link-base-color, 0%) !default;
 $link-hover-color:      $text-color !default;
 
 $border-color-01:       $brand-color-light !default;
@@ -30,25 +30,25 @@ $table-border-color:    $border-color-01 !default;
 // ----------------------------------------------------------------------------
 
 .highlight {
-  .c     { color: rgb(64, 43, 172); font-style: italic } // Comment
+  .c     { color: rgb(36, 5, 192); font-style: italic } // Comment
   .err   { color: #a61717; background-color: #e3d2d2 } // Error
   .k     { font-weight: bold } // Keyword
   .o     { font-weight: bold } // Operator
-  .cm    { color: #998; font-style: italic } // Comment.Multiline
-  .cp    { color: #999; font-weight: bold } // Comment.Preproc
-  .c1    { color: #998; font-style: italic } // Comment.Single
-  .cs    { color: #999; font-weight: bold; font-style: italic } // Comment.Special
+  .cm    { color: rgb(255, 255, 255); font-style: italic } // Comment.Multiline
+  .cp    { color: #ffffff; font-weight: bold } // Comment.Preproc
+  .c1    { color: rgb(255, 255, 255); font-style: italic } // Comment.Single
+  .cs    { color: #ffffff; font-weight: bold; font-style: italic } // Comment.Special
   .gd    { color: #000; background-color: #fdd } // Generic.Deleted
   .gd .x { color: #000; background-color: #faa } // Generic.Deleted.Specific
   .ge    { font-style: italic } // Generic.Emph
   .gr    { color: #a00 } // Generic.Error
-  .gh    { color: #999 } // Generic.Heading
+  .gh    { color: #ffffff } // Generic.Heading
   .gi    { color: #000; background-color: #dfd } // Generic.Inserted
   .gi .x { color: #000; background-color: #afa } // Generic.Inserted.Specific
-  .go    { color: #888 } // Generic.Output
+  .go    { color: #ffffff } // Generic.Output
   .gp    { color: #555 } // Generic.Prompt
   .gs    { font-weight: bold } // Generic.Strong
-  .gu    { color: #aaa } // Generic.Subheading
+  .gu    { color: #ffffff } // Generic.Subheading
   .gt    { color: #a00 } // Generic.Traceback
   .kc    { font-weight: bold } // Keyword.Constant
   .kd    { font-weight: bold } // Keyword.Declaration

@@ -36,15 +36,14 @@ img {
   <body>
     <div class="container">
       <div class="image">
-        <img src="media\result-fotor-bg-remover-20231029135413.png" width="1100" style="float: left;"  />
+        <img src="media\result-fotor-bg-remover-20231029135413.png" width="1300" style="float: left;"  />
       </div>
       <div class="text">
         <div>
-            &nbsp; &nbsp; &nbsp; Hello everyone! Welcome to my website! I do not have much up here yet, but I am working on it. Part of my 2023-year resolution is to keep up with content in here. 
+            &nbsp; &nbsp; &nbsp;
+            Hello! My name is Erisa and I am a third-year Ph.D. student in Mathematics at the University of Texas at Austin. I am currently working with Prof. Rachel A. Ward and Prof. Stefania Patrizi. My research interests include deep learning, neural operators, functional analysis and PDEs, and nonlocal operators. For more details, here's my <a href="https://www.ehasani.com/cv/">Curriculum Vitae</a>. Outside of mathematics, I also enjoy visual arts.
         <br>
-            &nbsp; &nbsp; &nbsp; I am a <del>second</del> third year PhD student in Mathematics at UT Austin. My research focus is in analysis, PDEs and machine learning. Outside of mathematics, I am also interested in visual arts.
-        <br>
-            &nbsp; &nbsp; &nbsp; I did my bachelor's and master's degrees at Florida Tech, in Melbourne, FL (2016-2021). Prior to that, I lived and went to school in Kalamata, Greece, for several years, and before that I lived in Elbasan, Albania where I was also born.  
+            &nbsp; &nbsp; &nbsp; Previously, I received my BS and MS degrees in Applied Mathematics at the Florida Institute of Technology where I did my master's thesis under the supervision of Prof. Kanishka Perera, which you can find under the name <a href="https://repository.fit.edu/etd/942/">The Brezis-Nirenberg Problem for the Generalized Kirchhoff Equation</a>. 
         </div>
       </div>
     </div>
