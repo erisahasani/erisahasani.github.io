@@ -30,22 +30,21 @@ img {
 
 .text {
   font-size: 17px;
-  padding-left: 17px;
+  padding-left: 25px;
 }
   </style>
   <body>
     <div class="container">
       <div class="image">
-        <img src="media\result-fotor-bg-remover-20231029135413.png" width="1300" style="float: left;"  />
+        <img src="media\result-fotor-bg-remover-20231029135413.png" width="2200" style="float: left;"  />
       </div>
       <div class="text">
         <div>
             &nbsp; &nbsp; &nbsp;
-            Hello! My name is Erisa, and I am a third-year Ph.D. student in Mathematics at the University of Texas at Austin. I am currently working with Prof. Rachel A. Ward and Prof. Stefania Patrizi. My research interests are both in applied problems and theoretical results on PDEs. I am interested in deep learning methods for numerical solutions to PDE (Partial Differential Equations) problems and in theoretical results on non-local problems. For some more details, here's my <a href="https://www.ehasani.com/cv/">Curriculum Vitae</a> and <a href="https://scholar.google.com/citations?user=LtO6zfcAAAAJ&hl=en">Google Scholar</a> page. Outside of mathematics, I also enjoy visual arts.
-        <br>
-            &nbsp; &nbsp; &nbsp; Previously, I received my BS and MS degrees in Applied Mathematics at the Florida Institute of Technology where I did my master's thesis under the supervision of Prof. Kanishka Perera, which you can find under the name <a href="https://repository.fit.edu/etd/942/">The Brezis-Nirenberg Problem for the Generalized Kirchhoff Equation</a>. 
-          <br>
-            &nbsp; &nbsp; &nbsp; For summer 2024, I will be interning at AMD as PhD tech intern, here in Austin.
+            Hello! My name is Erisa, and I am a third-year Ph.D. student in Mathematics at the University of Texas at Austin. I am currently working with Prof. Rachel A. Ward and Prof. Stefania Patrizi. My research interests are both in applied problems and theoretical results on PDEs. I am interested in deep learning methods for numerical solutions to PDE problems and in theoretical results on non-local problems. For some more details, here's my <a href="https://www.ehasani.com/cv/">Curriculum Vitae</a> and <a href="https://scholar.google.com/citations?user=LtO6zfcAAAAJ&hl=en">Google Scholar</a> page. Outside of mathematics, I also enjoy visual arts.
+  
+          <hr>
+            &nbsp; &nbsp; &nbsp; Update: For summer 2024, I will be interning at <a href= "https://www.amd.com/en.html">AMD</a> as PhD tech intern, here in Austin.
         </div>
       </div>
     </div>
