@@ -14,7 +14,7 @@ jsarr:
 
 <html>
   <head>
-    <title>Pretty Paris</title>
+    <title></title>
   </head>
   <style>
   .container {
@@ -41,9 +41,11 @@ img {
       <div class="text">
         <div>
             &nbsp; &nbsp; &nbsp;
-            Hello! My name is Erisa and I am a third-year Ph.D. student in Mathematics at the University of Texas at Austin. I am currently working with Prof. Rachel A. Ward and Prof. Stefania Patrizi. My research interests include deep learning, neural operators, functional analysis and PDEs, and nonlocal operators. For more details, here's my <a href="https://www.ehasani.com/cv/">Curriculum Vitae</a>. Outside of mathematics, I also enjoy visual arts.
+            Hello! My name is Erisa, and I am a third-year Ph.D. student in Mathematics at the University of Texas at Austin. I am currently working with Prof. Rachel A. Ward and Prof. Stefania Patrizi. My research interests are both in applied problems and theoretical results on PDEs. I am interested in deep learning methods for numerical solutions to PDE (Partial Differential Equations) problems and in theoretical results on non-local problems. For some more details, here's my <a href="https://www.ehasani.com/cv/">Curriculum Vitae</a> and <a href="https://scholar.google.com/citations?user=LtO6zfcAAAAJ&hl=en">Google Scholar</a> page. Outside of mathematics, I also enjoy visual arts.
         <br>
             &nbsp; &nbsp; &nbsp; Previously, I received my BS and MS degrees in Applied Mathematics at the Florida Institute of Technology where I did my master's thesis under the supervision of Prof. Kanishka Perera, which you can find under the name <a href="https://repository.fit.edu/etd/942/">The Brezis-Nirenberg Problem for the Generalized Kirchhoff Equation</a>. 
+          <br>
+            &nbsp; &nbsp; &nbsp; For summer 2024, I will be interning at AMD as PhD tech intern, here in Austin.
         </div>
       </div>
     </div>

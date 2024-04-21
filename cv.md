@@ -7,7 +7,7 @@ permalink: /cv/
 #### Technical Skills
 
 Languages & Libraries
-:   Python (NumPy, Matplotlib, PyTorch, SymEngine, H5py), C, C++, Rust, MATLAB
+:   Python (NumPy, Matplotlib, PyTorch, SymEngine), C, C++, MATLAB
 
 
 #### Education
