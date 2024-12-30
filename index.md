@@ -36,15 +36,13 @@ img {
   <body>
     <div class="container">
       <div class="image">
-        <img src="media\result-fotor-bg-remover-20231029135413.png" width="2200" style="float: left;"  />
+        <img src="media\467834538_1982703175557267_5527850591522007668_n.jpg" width="6200" style="float: left;"  />
       </div>
       <div class="text">
         <div>
             &nbsp; &nbsp; &nbsp;
-            Hello! My name is Erisa, and I am a third-year Ph.D. student in Mathematics at the University of Texas at Austin. I am currently working with Prof. Rachel A. Ward and Prof. Stefania Patrizi. My research interests are both in applied problems and theoretical results on PDEs. I am interested in deep learning methods for numerical solutions to PDE problems and in theoretical results on non-local problems. For some more details, here's my <a href="https://www.ehasani.com/cv/">Curriculum Vitae</a> and <a href="https://scholar.google.com/citations?user=LtO6zfcAAAAJ&hl=en">Google Scholar</a> page. Outside of mathematics, I also enjoy visual arts.
+            Hello! My name is Erisa, and I am a fourth-year Ph.D. student in Mathematics at the University of Texas at Austin. I am currently working with Prof. <a href="https://sites.google.com/prod/view/rward/home"> Rachel A. Ward</a> and Prof. <a href="https://www.ma.utexas.edu/component/cobalt/item/3350-patrizi-stefania?Itemid=1259">Stefania Patrizi</a>. My research interests are both in applied problems and theoretical results on PDEs. I am also interested in the mathematics behind large language models. For some more details, here's my <a href="https://www.ehasani.com/cv/">Curriculum Vitae</a> and <a href="https://scholar.google.com/citations?user=LtO6zfcAAAAJ&hl=en">Google Scholar</a> page. Outside of mathematics, I also enjoy visual arts.
   
-          <hr>
-            &nbsp; &nbsp; &nbsp; Update: For summer 2024, I will be interning at <a href= "https://www.amd.com/en.html">AMD</a> as PhD tech intern, here in Austin.
         </div>
       </div>
     </div>
