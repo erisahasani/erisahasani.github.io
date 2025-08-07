@@ -10,41 +10,46 @@ categories: misc
 jsarr:
 ---
 
-&nbsp; 
+&nbsp;
 
 <html>
-  <head>
-    <title></title>
-  </head>
+<head>
+  <!-- <title>About</title> -->
   <style>
-  .container {
-  display: flex;
-  align-items: center;
-  justify-content: center
-}
-
-img {
-  max-width: 100%;
-  max-height:100%;
-}
-
-.text {
-  font-size: 17px;
-  padding-left: 25px;
-}
+    .image {
+      float: right;
+      margin: 10px 20px 15px 10px; /* space between image and text */
+    }
+    img {
+      max-width: 260px; /* adjust size as needed */
+      height: auto;
+      display: block;
+    }
+    .text {
+      font-size: 17px;
+    }
+    h1 {
+      margin-top: 0;
+    }
   </style>
-  <body>
-    <div class="container">
-      <div class="image">
-        <img src="media\467834538_1982703175557267_5527850591522007668_n.jpg" width="6200" style="float: left;"  />
-      </div>
-      <div class="text">
-        <div>
-            &nbsp; &nbsp; &nbsp;
-            Hello! My name is Erisa, and I am a fourth-year Ph.D. student in Mathematics at the University of Texas at Austin. I am currently working with Prof. <a href="https://sites.google.com/prod/view/rward/home"> Rachel A. Ward</a> and Prof. <a href="https://www.ma.utexas.edu/component/cobalt/item/3350-patrizi-stefania?Itemid=1259">Stefania Patrizi</a>. My research interests are both in applied problems and theoretical results on PDEs. I am also interested in the mathematics behind large language models. For some more details, here's my <a href="https://www.ehasani.com/cv/">Curriculum Vitae</a> and <a href="https://scholar.google.com/citations?user=LtO6zfcAAAAJ&hl=en">Google Scholar</a> page. Outside of mathematics, I also enjoy visual arts.
-  
-        </div>
-      </div>
-    </div>
-  </body>
+</head>
+<body>
+  <h3>about</h3>
+
+  <div class="image">
+    <img src="media/IMG_7435.jpg" alt="Profile picture">
+  </div>
+
+  <div class="text">
+    I am a fifth-year Ph.D. student in the <a href="https://math.utexas.edu/">Department of Mathematics</a> at the University of Texas at Austin. I am fortunate enough to be co-advised by Prof. <a href="https://math.utexas.edu/directory/stefania-patrizi">Stefania Patrizi</a> and Prof. <a href="https://math.utexas.edu/directory/rachel-ward">Rachel A. Ward</a>. I am broadly interested in nonlocal problems in analysis, deep learning methods in solving partial differential equations, and the mathematics of large language models. To see up to date published work/preprints or relavant code, here are my <a href="https://scholar.google.com/citations?user=LtO6zfcAAAAJ&hl=en">Google Scholar</a> and <a href="https://github.com/erisahasani">GitHub</a> pages.
+   
+    <br><br>
+   
+    Aside from academic training, I had the opportunity to gain some industry experience through two back-to-back internships at <a href="https://www.amd.com/en.html">Advanced Micro Devices (AMD)</a> on the HPC team. There, I worked on applications of automating the process of code translation from Fortran into HIP through fine-tuning LLMs and using agentic AI. For more details on my academic or industry experience, see my <a href="https://www.ehasani.com/cv/">CV</a>.
+
+    <br> <br>
+
+    As of summer 2026, I will be on the job market for full time industry positions.
+  </div>
+</body>
 </html>
