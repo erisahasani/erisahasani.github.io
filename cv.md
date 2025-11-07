@@ -4,10 +4,41 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-#### **Technical Skills**
+#### **Experience**
+Aug. 2024 - Dec. 2024
+:   **GPU/ML Researcher/Developer Intern (part time), Advanced Micro Devices (AMD)** \
+- Integrated fine-tuned large language models (Qwen, DeepSeek, Llama) into an agentic AI framework to automate Fortran-to-HIP code translation.  
+- Designed a multi-agent system using CrewAI, where coordinated agents generated, reviewed, and debugged translated GPU code, achieving higher translation accuracy and performance comared to the zero shot finetuning baseline.  
 
-Languages & Libraries
-:   Python (PyTorch, NumPy, Matplotlib, SymEngine, etc), C, C++, MATLAB
+
+May 2024 - Aug. 2024
+:   **Co-Op/Intern: PhD Tech, Advanced Micro Devices (AMD)** \
+- Fine-tuned open-source LLMs (Qwen, DeepSeek, Llama) to automate Fortran-to-HIP code translation, enabling the generation of a first draft GPU compatible code.  
+- Built and curated a dataset, used in finetuning, of input and output pairs that correspond to Fortran code and the equivalent parallel code in HIP.
+
+
+Jun. 2023 - Present
+:   **Graduate Research  Assistant, Oden Institute** \
+- Designed and deployed a high-speed synthetic data generation pipeline for neural operator training, accelerating PDE solutions generation for scientific ML models.  
+- Developed a Python library leveraging SymEngine to generate PDE datasets used in training neural operator architectures. 
+
+
+
+<!-- Aug. 2021 - Present
+:   **Graduate Teaching Assistant, University of Texas at Austin** \
+    Fall 2024: Real Analysis \
+    Spring 2023: Linear Algebra and Matrix Theory \
+    Fall 2022: Diff Equat/Linear Algebra \
+    Spring 2022: Introduction to Real Analysis \
+    Fall 2021: Diff Equat/Linear Algebra
+
+Jan. 2020 - May. 2021
+:   **Graduate Teaching Assistant, Florida Institute of Technology**
+
+    Spring 2021: Diff Equat/Linear Algebra \
+    Fall 2020: Honors Calculus I,  Diff Equat/Linear Algebra \
+    Summer 2020: Calculus III (remote) \
+    Spring 2020: Honors Calculus II, Calculus III -->
 
 
 #### **Education**
@@ -16,7 +47,8 @@ Languages & Libraries
 Aug. 2021 - present
 :   *University of Texas at Austin* (Austin, TX)
 
-    PhD Student in Mathematicas
+    PhD Candidate in Mathematicas (expected graduation: May 2026) \
+    Research focus: PDEs in operator learning and non-local operators.
 
 Jan. 2020- May 2021
 :   *Florida Institute of Technology* (Melbourne, FL)
@@ -29,6 +61,17 @@ Aug. 2016 - Dec. 2019
 :   *Florida Institute of Technology* (Melbourne, FL)
 
     B.S. in Applied Mathematics
+
+#### **Technical Skills**
+
+Languages & Libraries
+:   Python (PyTorch, NumPy, JAX, scikit-learn, SymEngine), C/C++ 
+
+Tools 
+:   Git, Linux, Bash
+
+
+
 
 
 
@@ -43,37 +86,15 @@ Aug. 2016 - Dec. 2019
 :   *On the compactness threshold in the critical Kirchhoff equation. Erisa Hasani, Kanishka Perera. Journal of Discrete and Continuous Dynamical Systems, 2022.* [arXiv](https://arxiv.org/abs/2012.05317)
 
 
-#### **Experience**
-Aug. 2024 - Dec. 2024
-:   **GPU/ML Researcher/Developer, Advanced Micro Devices (AMD)** \
-Extended the work on code automation from Fortran to HIP by loading fine-tuned mondels into agentic
-AI frameworks and use agentic AI to improve performance.
+#### **Summer Schools**
+Jun. 2023
+: *Princeton Machine Learning Theory Summer School, Princeton University, New Jersey.*
+
+Jun. 2022
+: *Summer School in Nonlinear Analysis with a special tribute to Patrizia
+Pucci, Viterbo University, Italy.*
 
 
-May 2024 - Aug. 2024
-:   **Co-Op/Intern: PhD Tech, Advanced Micro Devices (AMD)** \
-    Worked on fine-tuning open sourced large language models to automate the process of code translation
-from Fortran to HIP via the iso_c_binding interface. Developed and curated training data used in finetuning the models.
-
-Jun. 2023 - Present
-:   **Graduate Research  Assistant, Oden Institute**
-
-
-Aug. 2021 - Present
-:   **Graduate Teaching Assistant, University of Texas at Austin** \
-    Fall 2024: Real Analysis \
-    Spring 2023: Linear Algebra and Matrix Theory \
-    Fall 2022: Diff Equat/Linear Algebra \
-    Spring 2022: Introduction to Real Analysis \
-    Fall 2021: Diff Equat/Linear Algebra
-
-Jan. 2020 - May. 2021
-:   **Graduate Teaching Assistant, Florida Institute of Technology**
-
-    Spring 2021: Diff Equat/Linear Algebra \
-    Fall 2020: Honors Calculus I,  Diff Equat/Linear Algebra \
-    Summer 2020: Calculus III (remote) \
-    Spring 2020: Honors Calculus II, Calculus III
 
 #### **Honors and Scholarships**
 
@@ -87,13 +108,6 @@ Feb. 2013
 :   *Bronze Medal, 30th Greek Mathematical Olympiad* (Athens, Greece)
 
 
-#### **Summer Schools**
-Jun. 2023
-: *Princeton Machine Learning Theory Summer School, Princeton University, New Jersey.*
-
-Jun. 2022
-: *Summer School in Nonlinear Analysis with a special tribute to Patrizia
-Pucci, Viterbo University, Italy.*
 
 
 
