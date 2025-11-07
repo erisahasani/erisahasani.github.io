@@ -7,13 +7,13 @@ permalink: /cv/
 #### **Experience**
 Aug. 2024 - Dec. 2024
 :   **GPU/ML Researcher/Developer Intern (part time), Advanced Micro Devices (AMD)** \
-- Integrated fine-tuned large language models (Qwen, DeepSeek, Llama) into an agentic AI framework to automate Fortran-to-HIP code translation.  
-- Designed a multi-agent system using CrewAI, where coordinated agents generated, reviewed, and debugged translated GPU code, achieving higher translation accuracy and performance comared to the zero shot finetuning baseline.  
+- Integrated finetuned large language models (Qwen, DeepSeek, Llama) into an agentic AI framework to automate Fortran-to-HIP code translation.  
+- Designed a multi agent system using CrewAI, where coordinated agents generated, reviewed, and debugged translated GPU code, achieving higher translation accuracy and performance comared to the zero shot finetuning baseline.  
 
 
 May 2024 - Aug. 2024
 :   **Co-Op/Intern: PhD Tech, Advanced Micro Devices (AMD)** \
-- Fine-tuned open-source LLMs (Qwen, DeepSeek, Llama) to automate Fortran-to-HIP code translation, enabling the generation of a first draft GPU compatible code.  
+- Finetuned open source LLMs (Qwen, DeepSeek, Llama) to automate Fortran-to-HIP code translation, enabling the generation of a first draft GPU compatible code.  
 - Built and curated a dataset, used in finetuning, of input and output pairs that correspond to Fortran code and the equivalent parallel code in HIP.
 
 
