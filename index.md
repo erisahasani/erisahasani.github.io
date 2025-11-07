@@ -48,8 +48,7 @@ jsarr:
     Aside from academic training, I had the opportunity to gain some industry experience through two back-to-back internships at <a href="https://www.amd.com/en.html">Advanced Micro Devices (AMD)</a> on the HPC team. There, I worked on applications of automating the process of code translation from Fortran into HIP through fine-tuning LLMs and using agentic AI. For more details on my academic or industry experience, see my <a href="https://www.ehasani.com/cv/">CV</a>.
 
     <br> <br>
-
-    As of summer 2026, I will be on the job market for full time industry positions.
+    I am on the job market starting summer of 2026.
   </div>
 </body>
 </html>
