@@ -8,7 +8,7 @@ permalink: /cv/
 Aug. 2024 - Dec. 2024
 :   **GPU/ML Researcher/Developer Intern (part time), Advanced Micro Devices (AMD)** \
 - Integrated finetuned large language models (Qwen, DeepSeek, Llama) into an agentic AI framework to automate Fortran-to-HIP code translation.  
-- Designed a multi agent system using CrewAI, where coordinated agents generated, reviewed, and debugged translated GPU code, achieving higher translation accuracy and performance comared to the zero shot finetuning baseline.  
+- Designed a multi agent system using CrewAI, where coordinated agents generated, reviewed, and debugged translated GPU code, achieving higher translation accuracy and performance compared to the zero shot finetuning baseline.  
 
 
 May 2024 - Aug. 2024
@@ -47,7 +47,7 @@ Jan. 2020 - May. 2021
 Aug. 2021 - present
 :   *University of Texas at Austin* (Austin, TX)
 
-    PhD Candidate in Mathematicas (expected graduation: May 2026) \
+    PhD Candidate in Mathematics (expected graduation: May 2026) \
     Research focus: PDEs in operator learning and non-local operators.
 
 Jan. 2020- May 2021
