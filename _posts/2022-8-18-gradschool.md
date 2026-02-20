@@ -2,6 +2,7 @@
 layout: post
 title: "Applying to Grad School"
 categories: misc
+published: false
 ---
 
 When applying for a PhD program, it was very helpful reading posts that were meant to guide students throughout the process, advice that wasn't from a school website, advice that was more personal. Being a PhD student for a year now, I think I am ready to share my applying to grad schools experience. What follows is designated for students applying to grad school (especially in the United States). Here are a few standard questions I had during the application season: Where to apply? Am I good enough to apply to a certain school? How many schools should I apply to? After getting admitted somewhere, how do I pick? What if I do not get in anywhere? Here I would like to try and answer those questions based on my experience.

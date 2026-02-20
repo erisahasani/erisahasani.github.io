@@ -7,6 +7,20 @@
   "minima/initialize";
 
 
+/* About page layout */
+.image {
+    float: right;
+    margin: 10px 20px 15px 10px;
+}
+.image img {
+    max-width: 260px;
+    height: auto;
+    display: block;
+}
+.text {
+    font-size: 17px;
+}
+
 /* Adding to CV format*/
 h1 {
     font-size: 35px;

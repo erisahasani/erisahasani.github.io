@@ -1,0 +1,83 @@
+---
+layout: page
+title: Resume
+permalink: /resume/
+---
+
+#### **Professional Summary**
+
+PhD candidate in Mathematics at UT Austin with industry experience in LLM fine-tuning and agentic AI systems at AMD. Research interests include ML for scientific computing, nonlocal PDEs, mathematics of LLMs, and AI for mathematics. Seeking research scientist, ML/AI engineer, and software engineer positions.
+
+
+#### **Technical Skills**
+
+Languages & Libraries
+:   Python (PyTorch, NumPy, JAX, scikit-learn, SymEngine), C/C++
+
+Tools
+:   Git, Linux, Bash
+
+
+#### **Experience**
+
+Aug. 2024 - Dec. 2024
+:   **GPU/ML Researcher/Developer Intern (part time), Advanced Micro Devices (AMD)** \
+- Integrated fine-tuned large language models (Qwen, DeepSeek, Llama) into an agentic AI framework to automate Fortran-to-HIP code translation.
+- Designed a multi-agent system using CrewAI, where coordinated agents generated, reviewed, and debugged translated GPU code, achieving higher translation accuracy and performance compared to the zero shot finetuning baseline.
+
+
+May 2024 - Aug. 2024
+:   **Co-Op/Intern: PhD Tech, Advanced Micro Devices (AMD)** \
+- Fine-tuned open-source LLMs (Qwen, DeepSeek, Llama) to automate Fortran-to-HIP code translation, enabling the generation of a first draft GPU compatible code.
+- Built and curated a dataset, used in finetuning, of input and output pairs that correspond to Fortran code and the equivalent parallel code in HIP.
+
+
+Jun. 2023 - Present
+:   **Graduate Research Assistant, Oden Institute, UT Austin** \
+- Designed and deployed a high-speed synthetic data generation pipeline for neural operator training, accelerating PDE solutions generation for scientific ML models.
+- Developed a Python library leveraging SymEngine to generate PDE datasets used in training neural operator architectures.
+
+
+#### **Education**
+
+Aug. 2021 - present
+:   *University of Texas at Austin* (Austin, TX)
+
+    PhD Candidate in Mathematics (expected graduation: May 2026) \
+    Research focus: PDEs in operator learning and non-local operators. \
+    Advisors: Prof. Stefania Patrizi and Prof. Rachel Ward
+
+Jan. 2020 - May 2021
+:   *Florida Institute of Technology* (Melbourne, FL)
+
+    M.S. in Applied Mathematics. \
+    Thesis Title: *"The Brezis-Nirenberg Problem for the Generalized Kirchhoff Equation"*
+
+Aug. 2016 - Dec. 2019
+:   *Florida Institute of Technology* (Melbourne, FL)
+
+    B.S. in Applied Mathematics
+
+
+#### **Publications**
+
+2026
+:   *The strongly nonlocal Allen–Cahn problem. Erisa Hasani, Stefania Patrizi. Journal of Differential Equations, Volume 462.* [arXiv](https://arxiv.org/abs/2511.04818)
+
+2025
+:   *Generating synthetic data for neural operators. Erisa Hasani, Rachel A. Ward. The SMAI Journal of computational mathematics, Volume 11 (2025), pp. 497-516.* [arXiv](https://arxiv.org/abs/2401.02398)
+
+2023
+:   *On the critical $$p$$-Kirchhoff equation. Erisa Hasani, Kanishka Perera. Topological Methods in Nonlinear Analysis Vol. 61, Issue 1, (Jan 2023), pgs 383-391.* [arXiv](https://arxiv.org/abs/2108.05285)
+
+2021
+:   *On the compactness threshold in the critical Kirchhoff equation. Erisa Hasani, Kanishka Perera. Journal of Discrete and Continuous Dynamical Systems, 2022.* [arXiv](https://arxiv.org/abs/2012.05317)
+
+
+#### **Honors**
+
+May 2022
+:    *Frank Gerth III Teaching Excellence Award*, University of Texas at Austin
+
+Feb. 2013
+:   *Bronze Medal, 30th Greek Mathematical Olympiad* (Athens, Greece)
