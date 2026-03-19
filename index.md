@@ -3,16 +3,15 @@ layout: page
 categories: misc
 ---
 
-<h3>about</h3>
+<h3>About</h3>
+
+<span style="color:#B22222;">[If you are here from X, my account has been compromised, do not open any links you may receive!]</span>
 
 <div class="image">
-  <img src="media/IMG_7435.jpg" alt="Profile picture">
+  <img src="media/DSC02726.jpg" alt="Profile picture">
 </div>
 
 <div class="text">
-  <span style="color:#B22222;">[If you are here from X, my account has been compromised, do not open any links you may receive!]</span>
-
-  <br><br>
   
   I am a fifth-year Ph.D. student in the <a href="https://math.utexas.edu/">Department of Mathematics</a> at the University of Texas at Austin. I have had the opportunity to gain industry experience through two back-to-back internships at <a href="https://www.amd.com/en.html">Advanced Micro Devices (AMD)</a> on the HPC team, where I worked on automating the process of code translation from Fortran into HIP through fine-tuning LLMs and using agentic AI.
 
