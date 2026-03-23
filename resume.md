@@ -34,8 +34,7 @@ May 2024 - Aug. 2024
 
 Jun. 2023 - Present
 :   **Graduate Research Assistant, Oden Institute, UT Austin** \
-- Designed and deployed a high-speed synthetic data generation pipeline for neural operator training, accelerating PDE solutions generation for scientific ML models.
-- Developed a Python library leveraging SymEngine to generate PDE datasets used in training neural operator architectures.
+- Designed a high-speed synthetic data generation pipeline for neural operator training, accelerating PDE solutions generation for scientific ML models.
 
 
 #### **Education**
@@ -43,7 +42,7 @@ Jun. 2023 - Present
 Aug. 2021 - present
 :   *University of Texas at Austin* (Austin, TX)
 
-    PhD Candidate in Mathematics (expected graduation: May 2026) \
+    PhD Candidate in Mathematics (expected graduation: August 2026) \
     Research focus: PDEs in operator learning and non-local operators. \
     Advisors: Prof. Stefania Patrizi and Prof. Rachel Ward
 
