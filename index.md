@@ -5,8 +5,6 @@ categories: misc
 
 <h3>About</h3>
 
-<span style="color:#B22222;">[If you are here from X, my account @erisaonX has been compromised, do not open any links you may receive!]</span>
-
 <div class="image">
   <img src="media/DSC02726.jpg" alt="Profile picture">
 </div>
