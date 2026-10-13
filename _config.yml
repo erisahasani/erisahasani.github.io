@@ -1,56 +1,45 @@
-title: Erisa Hasani
-author:
-  name: Erisa Hasani
-  email: ehasani at utexas.edu
-description: PhD Candidate | Applied Math, ML & AI
-show_excerpts: false # set to true to show excerpts on the homepage
+# Site settings
+title: Erisa Hasani          # used by jekyll-seo-tag for page titles and metadata
+name: Erisa Hasani           # shown in the top bar on non-home pages
+author: Erisa Hasani
+description: PhD Candidate in Mathematics at UT Austin   # browser tab title and search snippet
+header_tagline: PhD Candidate in Mathematics | UT Austin  # shown beside the photo; the | becomes a line break
 
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
 
-  # generate social links in footer
-  social_links:
-    twitter: erisa_hn
-    github: erisahasani
-    # devto: jekyll
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
-    linkedin: erisa-hasani-81107a147
-    # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
-    # telegram: jekyll
-    # googleplus: +jekyll
-    # microdotblog: jekyll
-    # keybase: jekyll
+url: https://www.ehasani.com
+baseurl: ""
 
-    # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
+# Links in the top bar (shown on every page except the home page)
+nav:
+  - title: Home
+    url: /
+  - title: Resume
+    url: /resume/
 
-    # GitLab instances
-    # gitlab:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+# Icons in the footer
+footer-links:
+  github: erisahasani
+  linkedin: erisa-hasani-81107a147
+  x: erisaonX
 
 # Build settings
-theme: minima
+permalink: /:title/
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+sass:
+  style: expanded
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - vendor

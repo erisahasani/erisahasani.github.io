@@ -6,7 +6,7 @@ permalink: /resume/
 
 #### **Professional Summary**
 
-PhD candidate in Mathematics at UT Austin with industry experience in LLM fine-tuning and agentic AI systems at AMD. Research interests include ML for scientific computing, nonlocal PDEs, mathematics of LLMs, and AI for mathematics. Seeking research scientist, ML/AI engineer, and software engineer positions.
+PhD candidate in Mathematics at UT Austin with industry experience in LLM fine-tuning and agentic AI systems at AMD. Research interests include ML for scientific computing, nonlocal PDEs, mathematics of LLMs, and AI for mathematics. Seeking research scientist and ML/AI engineer positions.
 
 
 #### **Technical Skills**
@@ -42,7 +42,7 @@ Jun. 2023 - Present
 Aug. 2021 - present
 :   *University of Texas at Austin* (Austin, TX)
 
-    PhD Candidate in Mathematics (expected graduation: August 2026) \
+    PhD Candidate in Mathematics (expected graduation: December 2026) \
     Research focus: PDEs in operator learning and non-local operators. \
     Advisors: Prof. Stefania Patrizi and Prof. Rachel Ward
 
@@ -59,6 +59,9 @@ Aug. 2016 - Dec. 2019
 
 
 #### **Publications**
+
+2026
+:   *Interacting fronts in the strongly nonlocal Allen–Cahn equation. Erisa Hasani, Stefania Patrizi. Preprint.* [arXiv](https://arxiv.org/abs/2609.35666)
 
 2026
 :   *The strongly nonlocal Allen–Cahn problem. Erisa Hasani, Stefania Patrizi. Journal of Differential Equations, Volume 462.* [arXiv](https://arxiv.org/abs/2511.04818)

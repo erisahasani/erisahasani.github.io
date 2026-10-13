@@ -1,5 +1,12 @@
-This is the source for a github pages personal site which is based on the theme minima (see [jekyll/minima](https://github.com/jekyll/minima))
+Source for [www.ehasani.com](https://www.ehasani.com), built with Jekyll and hosted on GitHub Pages.
 
-## License
+The layout is based on the [Reverie](https://github.com/amitmerchant1990/reverie) theme (MIT License, see `LICENSE`).
 
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+## Running locally
+
+```
+bundle install
+bundle exec jekyll serve --livereload
+```
+
+Then open http://localhost:4000.
