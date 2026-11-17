@@ -6,7 +6,7 @@ permalink: /resume/
 
 #### **Professional Summary**
 
-PhD candidate in Mathematics at UT Austin with industry experience in LLM fine-tuning and agentic AI systems at AMD. Research interests include ML for scientific computing, nonlocal PDEs, mathematics of LLMs, and AI for mathematics. Seeking research scientist and ML/AI engineer positions.
+PhD in Mathematics at UT Austin with industry experience of two internships at AMD. Research interests include ML for scientific computing, nonlocal PDEs, mathematics of LLMs, and AI for mathematics. Seeking research scientist and ML/AI engineer positions.
 
 
 #### **Technical Skills**

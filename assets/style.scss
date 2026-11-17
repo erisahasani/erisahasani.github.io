@@ -318,6 +318,15 @@ dl {
   }
 }
 
+dl.news {
+  grid-template-columns: 130px 1fr;
+  row-gap: 4px;
+
+  @include mobile {
+    grid-template-columns: 1fr;
+  }
+}
+
 dt {
   color: $blue;
 }

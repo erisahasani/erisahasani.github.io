@@ -23,3 +23,10 @@ layout: default
 <p>I have had the opportunity to gain industry experience through two back-to-back internships at <a href="https://www.amd.com/en.html">Advanced Micro Devices (AMD)</a> on the HPC team, where I worked on automating the process of code translation from Fortran into HIP through fine-tuning LLMs and using agentic AI. To see up to date published work/preprints or relevant code, here are my <a href="https://scholar.google.com/citations?user=LtO6zfcAAAAJ&hl=en">Google Scholar</a> and <a href="https://github.com/erisahasani">GitHub</a> pages.</p>
 
 <p>I am on the job market starting fall of 2026.</p>
+
+<h3>News</h3>
+
+<dl class="news">
+  <dt>Oct 19, 2026</dt>
+  <dd>Defended my Ph.D. dissertation.</dd>
+</dl>
